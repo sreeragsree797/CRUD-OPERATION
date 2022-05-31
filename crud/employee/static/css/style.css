@@ -1,0 +1,24 @@
+body{
+    background:lightgreen;
+    height: 100%;
+    margin: 25px 0;
+    padding-left: 300px;
+}
+table,th,td{
+    border: 1px solid red    
+
+}
+tr:hover{
+    background-color: aqua;
+}
+th{
+    background-color: yellow;
+    color: orange;
+
+}
+button{
+    border-radius: 12px;
+    color: red;
+    background-color: black;
+    cursor: pointer;
+}
